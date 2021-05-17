@@ -1,4 +1,4 @@
 # OCR_tesseract
 
 
-The aim was recognize forms filled manually by hand so as to automate the process
+Exploring google's optical charecter recognization engine, Tesseract. 
